@@ -9,14 +9,6 @@ My mission is to continuously grow as a versatile developer and data enthusiast,
 
 ## 🛠️ My Skill Set
 
-### **Data Science & Analytics**
-- **Learning Focus**: Data Science & Analytics
-- **Data Wrangling & Cleaning**: Turning messy data into valuable information
-- **Exploratory Data Analysis (EDA)**: Visualizing trends and uncovering patterns
-- **Machine Learning**: Building predictive and classification models
-- **Data Visualization**: Creating insightful dashboards with tools like Matplotlib, Seaborn, Plotly
-- **Languages & Tools**: Python, R, SQL, Pandas, NumPy, Scikit-learn
-
 ### **Web & Mobile Development**
 - **Frontend Development**: HTML5, CSS3, JavaScript — Building engaging, responsive websites
 - **Frameworks & Libraries**: Next.js — For fast, SEO-friendly web applications
