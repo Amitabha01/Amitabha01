@@ -9,7 +9,7 @@ My mission is to continuously grow as a versatile developer and data enthusiast,
 
 ## 🛠️ My Skill Set
 
-### **Web & Mobile Development**
+### **Full Stack Web & Mobile Development**
 - **Frontend Development**: HTML5, CSS3, JavaScript — Building engaging, responsive websites
 - **Frameworks & Libraries**: Next.js — For fast, SEO-friendly web applications
 - **Mobile App Development**: Dart & Flutter — Creating cross-platform, beautiful, and performant apps
