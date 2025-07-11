@@ -28,7 +28,6 @@ I'm passionate about interdisciplinary development—merging **web development**
 ---
 
 ## 🏆 Projects & Achievements
-- **Data Analysis & Visualization**: Analyzed datasets from Kaggle, creating visual stories and predictive models.
 - **Web Development**: Built personal portfolios and web applications using Next.js and CSS3.
 - **Mobile Development**: Designed Flutter apps focusing on UI/UX and performance.
 - **Version Control & Collaboration**: Managed projects with Git and GitHub, collaborating with teams.
